@@ -4,6 +4,11 @@
 ### AIM: 
 To write a python program to simulate the game using ---------------.
 ### Algorithm:
+Step 1:Initialize Grid and Define Matching Rules
+Step 2:Display the grid on the screen using a game library
+Step 3:Validate the match and check for the swap
+Step 4:Check for the level completion and Increase the difficulty
+Step 5: Repeat the process again
 
 ### Program:
 ```
@@ -169,8 +174,9 @@ game_loop()
 
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/01dfc502-6c0e-4ffd-aef8-9e2ca03a0114)
 
 
 
 ### Result:
-Thus the simple  game was implemented using .......................
+Thus the simple  game was implemented using Rule based algorithm
