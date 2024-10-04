@@ -201,6 +201,8 @@ pygame.quit()
 
 ![Screenshot 2024-10-04 131827](https://github.com/user-attachments/assets/299b367d-62c8-4165-81de-bcb63d2bf76a)
 
+![Screenshot 2024-10-04 134753](https://github.com/user-attachments/assets/ebe0115b-e3cc-4bcd-a8d1-4f59d967995f)
+
 ### Result:
 Thus the Mental Health Awareness Memory Game was implemented using Pygame and Q-Learning.
 
