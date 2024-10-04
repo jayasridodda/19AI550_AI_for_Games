@@ -1,10 +1,9 @@
-Ex.No: 11 Mini Project
-DATE: 4.10.24
-REGISTER NUMBER:212222230049
-AIM:
+# Ex.No: 11 Mini Project
+# DATE: 4.10.24
+# REGISTER NUMBER:212222230049
+# Aim:
 To write a Python program to simulate the Mental Health Awareness Memory Game using Pygame and Q-Learning.
-
-Algorithm:
+# Algorithm:
 1.Initialize Pygame, the screen, and game settings.
 2.Load images representing mental health tips and resize them to fit the game grid.
 3.Create a shuffled deck of cards with each image appearing twice for matching pairs.
@@ -200,8 +199,7 @@ pygame.quit()
 
 ### Output:
 
-
-
+![Screenshot 2024-10-04 131827](https://github.com/user-attachments/assets/299b367d-62c8-4165-81de-bcb63d2bf76a)
 
 ### Result:
 Thus the Mental Health Awareness Memory Game was implemented using Pygame and Q-Learning.
