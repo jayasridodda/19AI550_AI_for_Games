@@ -1,6 +1,6 @@
-# Ex.No: 11 Mini Project
-# DATE: 4.10.24
-# REGISTER NUMBER:212222230049
+### Ex.No: 11 Mini Project
+### DATE: 4.10.24
+### REGISTER NUMBER:212222230049
 # Aim:
 To write a Python program to simulate the Mental Health Awareness Memory Game using Pygame and Q-Learning.
 # Algorithm:
