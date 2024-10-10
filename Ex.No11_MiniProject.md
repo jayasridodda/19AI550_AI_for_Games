@@ -5,16 +5,24 @@
 To write a Python program to simulate the Mental Health Awareness Memory Game using Pygame and Q-Learning.
 # Algorithm:
 1.Initialize Pygame, the screen, and game settings.
+
 2.Load images representing mental health tips and resize them to fit the game grid.
+
 3.Create a shuffled deck of cards with each image appearing twice for matching pairs.
+
 4.Implement Q-Learning parameters such as learning rate (alpha), discount factor (gamma), and exploration rate (epsilon).
+
 5.Main game loop:
    AI flips two cards using Q-learning.
    If a match is found, display the mental health tip associated with the card.
    If not, the cards are hidden again.
+   
 6.Update the Q-table based on whether the AI found a match or not.
+
 7.Repeat the process until all pairs are matched.
+
 8.Display the number of moves taken by the AI to win the game.
+
 9.Terminate the game when all matches are found.
 
 ### Program:
