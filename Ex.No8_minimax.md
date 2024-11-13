@@ -5,7 +5,7 @@
 #### Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
 1. Start the program
-2. import the math package
+2. import the math package 
 3. Specify the score value of leaf nodes and find the depth of binary tree from leaf nodes.
 4. Define the minimax function
 5. If maximum depth is reached then get the score value of leaf node.
