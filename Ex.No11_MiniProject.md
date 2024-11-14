@@ -2,7 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222240028
 ### AIM: 
-To write a python program to simulate the game using ---------------.
+To write a python program to simulate the game using rule based algorithm
 ### Algorithm:
 Step 1:Initialize Grid and Define Matching Rules
 Step 2:Display the grid on the screen using a game library
